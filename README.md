@@ -1,5 +1,4 @@
 # URLWatch_Python_Mazuru_Alin_E3
-URLWatch
 A Python monitoring script that continuously checks website availability based on entries from sites.txt.
 Each line in the file follows the format: URL IMPORTANCE, where IMPORTANCE ∈ {INFO, WARNING, CRITICAL}.
 Output uses colors: green for reachable sites, blue/yellow/red for unreachable INFO/WARNING/CRITICAL, and white for any other messages.
