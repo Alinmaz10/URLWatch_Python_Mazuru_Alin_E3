@@ -1,0 +1,6 @@
+https://www.google.com INFO
+https://www.python.org INFO
+https://www.example.com WARNING
+https://www.google.com/pagina-care-nu-exista WARNING
+https://site-care-nu-exista-deloc-12345.ro CRITICAL
+http://httpstat.us/500 INFO
